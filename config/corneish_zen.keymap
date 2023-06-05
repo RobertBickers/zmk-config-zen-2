@@ -18,7 +18,7 @@
 
 
 &mmv {
-    acceleration-exponent=<1>;
+    acceleration-exponent=1;
 };
 
 
